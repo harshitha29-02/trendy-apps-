@@ -1,0 +1,73 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOBnu7GBo0XPaa7-vHUIRV1GOXhDY-YdnFQ&s');
+    background-size: 100%; 
+    background-position: 70%; 
+    background-repeat: no-repeat;
+    
+    
+}
+.tag{
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+h2 {
+    font-size: 40px;
+    margin-left: 20px;
+    color: white;
+
+}
+h3 {
+    font-size: 20px;
+    margin-left: 20px;
+    color: white;
+
+}
+.social {
+    display: flex;
+    align-items: center;
+    margin-top: 20px; 
+}
+
+.social a {
+    display: inline-flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black; 
+    margin: 0 10px; 
+}
+.app {
+    display: flex;
+    align-items: center;
+    margin-top: 20px; 
+}
+
+.app a {
+    display: inline-flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white; 
+    margin: 0 10px; 
+}
+.pic{
+    color: #f0f0f0;
+}
+
+
+
